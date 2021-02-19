@@ -1,0 +1,1 @@
+native module implementation for android fullscreen from solution described at [link](https://levelup.gitconnected.com/write-your-own-react-native-module-to-enable-full-screen-mode-android-cfe246329740)
